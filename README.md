@@ -11,7 +11,7 @@
 
 
 <br />
-<details>
+<!-- <details>
 <summary>:zap: Click the dropdown for some fun coding statistics!</summary>
 <br />
   
@@ -20,3 +20,4 @@
 ![CerealJim's github stats](https://github-readme-stats.vercel.app/api?username=CerealJim&show_icons=true&theme=onedark)
 
 </details>
+ -->
