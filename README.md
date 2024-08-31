@@ -5,7 +5,6 @@
 
 - 💻 Front-end: JavaScript, jQuery, React, Next.js, Typescript
 - 📱 Responsive and accessible Web Design: HTML, WCAG, CSS, SASS, Tailwind
-- 🧰 Tools: Visual Studio Code, FireBase, Jira, Asana, Salesforce Git, GitHub Actions, NPM
 
 ## Let's Connect
 
